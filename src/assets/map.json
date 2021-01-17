@@ -1,0 +1,22 @@
+{
+"Location1" :{"current":"RoomNorth1","left":"RoomWest1","right":"RoomEast1","forward":"RoomNorth2","view":{"progress":1.0,"requestedWidth":0.0,"requestedHeight":0.0,"width":1776.0,"height":1332.0,"preserveRatio":false,"smooth":false,"backgroundLoading":false,"error":false,"exception":null,"pixelReader":{"pixelFormat":{"type":"BYTE_RGB","writable":true,"premultiplied":false}}}},
+
+"Location2" : {"current":"RoomEast1","left":"RoomNorth1","right":"RoomSouth1","forward":"","view":{"progress":1.0,"requestedWidth":0.0,"requestedHeight":0.0,"width":1776.0,"height":1332.0,"preserveRatio":false,"smooth":false,"backgroundLoading":false,"error":false,"exception":null,"pixelReader":{"pixelFormat":{"type":"BYTE_RGB","writable":true,"premultiplied":false}}}},
+
+"Location3": {"current":"RoomWest1","left":"RoomSouth1","right":"RoomNorth1","forward":"","view":{"progress":1.0,"requestedWidth":0.0,"requestedHeight":0.0,"width":1776.0,"height":1332.0,"preserveRatio":false,"smooth":false,"backgroundLoading":false,"error":false,"exception":null,"pixelReader":{"pixelFormat":{"type":"BYTE_RGB","writable":true,"premultiplied":false}}}},
+
+"Location4": {"current":"RoomSouth1","left":"RoomEast1","right":"RoomWest1","forward":"","view":{"progress":1.0,"requestedWidth":0.0,"requestedHeight":0.0,"width":1776.0,"height":1332.0,"preserveRatio":false,"smooth":false,"backgroundLoading":false,"error":false,"exception":null,"pixelReader":{"pixelFormat":{"type":"BYTE_RGB","writable":true,"premultiplied":false}}}},
+
+"Location5": {"current":"RoomNorth2","left":"RoomWest2","right":"RoomEast2","forward":"RoomNorth3","view":{"progress":1.0,"requestedWidth":0.0,"requestedHeight":0.0,"width":1776.0,"height":1332.0,"preserveRatio":false,"smooth":false,"backgroundLoading":false,"error":false,"exception":null,"pixelReader":{"pixelFormat":{"type":"BYTE_RGB","writable":true,"premultiplied":false}}}},
+
+"Location6": {"current":"RoomEast2","left":"RoomNorth2","right":"RoomSouth2","forward":"","view":{"progress":1.0,"requestedWidth":0.0,"requestedHeight":0.0,"width":1776.0,"height":1332.0,"preserveRatio":false,"smooth":false,"backgroundLoading":false,"error":false,"exception":null,"pixelReader":{"pixelFormat":{"type":"BYTE_RGB","writable":true,"premultiplied":false}}}},
+
+"Location7": {"current":"RoomWest2","left":"RoomSouth2","right":"RoomNorth2","forward":"","view":{"progress":1.0,"requestedWidth":0.0,"requestedHeight":0.0,"width":1776.0,"height":1332.0,"preserveRatio":false,"smooth":false,"backgroundLoading":false,"error":false,"exception":null,"pixelReader":{"pixelFormat":{"type":"BYTE_RGB","writable":true,"premultiplied":false}}}},
+
+"Location8": {"current":"RoomSouth2","left":"RoomEast2","right":"RoomWest2","forward":"RoomSouth1","view":{"progress":1.0,"requestedWidth":0.0,"requestedHeight":0.0,"width":1776.0,"height":1332.0,"preserveRatio":false,"smooth":false,"backgroundLoading":false,"error":false,"exception":null,"pixelReader":{"pixelFormat":{"type":"BYTE_RGB","writable":true,"premultiplied":false}}}},
+
+"Location9": {"current":"RoomNorth3","left":"RoomWest3","right":"RoomEast3","forward":"LoungeNorth1","view":{"progress":1.0,"requestedWidth":0.0,"requestedHeight":0.0,"width":1776.0,"height":1332.0,"preserveRatio":false,"smooth":false,"backgroundLoading":false,"error":false,"exception":null,"pixelReader":{"pixelFormat":{"type":"BYTE_RGB","writable":true,"premultiplied":false}}}}
+
+
+
+}

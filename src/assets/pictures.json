@@ -1,0 +1,39 @@
+{
+
+	"RoomNorth1": "pictures/1.jpg",
+	"RoomEast1": "pictures/2.jpg",
+	"RoomWest1": "pictures/3.jpg",
+	"RoomSouth1":"pictures/4.jpg",
+	"RoomNorth2": "pictures/5.jpg",
+	"RoomEast2": "pictures/6.jpg",
+	"RoomWest2": "pictures/7.jpg",
+	"RoomSouth2": "pictures/8.jpg",
+	"RoomNorth3": "pictures/9.jpg",
+	"RoomEast3": "pictures/10.jpg",
+	"RoomWest3": "pictures/11.jpg",
+	"RoomSouth3": "pictures/12.jpg",
+	
+	"LoungeNorth1": "pictures/loungenorth1.jpg",
+	"LoungeEast1":  "pictures/loungeeast1.jpg",
+	"LoungeWest1": "pictures/loungewest1.jpg",
+	"LoungeSouth1": "pictures/loungesouth1.jpg",
+	
+	"KitchenNorth1": "pictures/kitchennorth1.jpg",
+	"KitchenEast1": "pictures/kitcheneast1.jpg",
+	"KitchenWest1": "pictures/kitchenwest1.jpg",
+	"KitchenSouth1":"pictures/kitchensouth1.jpg",
+	"KitchenNorth2": "pictures/kitchennorth2.jpg",
+	"KitchenEast2": "pictures/kitcheneast2.jpg",
+	"KitchenWest2": "pictures/kitchenwest2.jpg",
+	"KitchenSouth2": "pictures/kitchensouth2.jpg",
+	"KitchenNorth3": "pictures/kitchennorth3.jpg",
+	"KitchenEast3": "pictures/kitcheneast3.jpg",
+	"KitchenWest3": "pictures/kitchenwest3.jpg",
+	"KitchenSouth3": "pictures/kitchensouth3.jpg"
+	
+	
+	}
+
+
+
+}
